@@ -1,0 +1,5 @@
+project: mmark
+target: mmark
+cmds:
+  - cmd: /mmark @@
+    env: {}
